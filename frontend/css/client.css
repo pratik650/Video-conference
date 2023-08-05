@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa:wght@500&display=swap');
 
-/*--------------------------------------------------------------
-# Root settings
---------------------------------------------------------------*/
 
 :root {
     --primary-color: #202123;
@@ -40,10 +37,6 @@ body {
     background: var(--primary-color);
     user-select: none;
 }
-
-/*--------------------------------------------------------------
-# Loading... Waiting...
---------------------------------------------------------------*/
 
 #waitingDivContainer {
     position: absolute;
@@ -103,9 +96,6 @@ body {
     align-items: center;
 }
 
-/*--------------------------------------------------------------
-# Main buttons
---------------------------------------------------------------*/
 
 #buttonsBar {
     position: fixed;

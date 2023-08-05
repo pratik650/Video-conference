@@ -1,7 +1,5 @@
 'use strict';
 
-// https://github.com/mikecao/umami
-
 const script = document.createElement('script');
 script.setAttribute('async', '');
 script.setAttribute('src', 'https://stats.mirotalk.com/script.js');
